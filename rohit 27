@@ -1,0 +1,1 @@
+The key difference between git reset hard and soft commands is that a soft git reset does not revert staged or working tree files back to 
