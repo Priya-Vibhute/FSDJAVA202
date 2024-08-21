@@ -1,0 +1,13 @@
+What is API ?
+
+-->An API (Application Programming Interface) is a set of rules and protocols that allows different software 
+ applications to communicate with each other. It defines the methods and data formats that programs can 
+ use to request and exchange information.
+
+Example of an API:
+
+Imagine you are using a weather app on your phone. When you open the app, it shows the current weather conditions, forecasts, and other related data. The app itself doesn't have all this data stored locally; instead, it requests the data from a remote weather service.
+
+Here's how it works:
+
+Request---> Processing---> Response---> Display
