@@ -1,1 +1,2 @@
 The key difference between git reset hard and soft commands is that a soft git reset does not revert staged or working tree files back to 
+git reset --hard. Reset the staging area and the working directory to match the most recent commit. In addition to unstaging changes, the --hard flag tells Git to overwrite all changes in the working directory, too.
